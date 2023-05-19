@@ -8,14 +8,12 @@ const SortSelector = () => {
         Order by: Relvance
       </MenuButton>
       <MenuList>
-        <MenuList>
-          <MenuItem>Relevance</MenuItem>
-          <MenuItem>Date</MenuItem>
-          <MenuItem>Name</MenuItem>
-          <MenuItem>Rel DAte</MenuItem>
-          <MenuItem>jioavdfshjkol</MenuItem>
-          <MenuItem>jkl;adlkj;sfdlkj;</MenuItem>
-        </MenuList>
+        <MenuItem>Relevance</MenuItem>
+        <MenuItem>Date</MenuItem>
+        <MenuItem>Name</MenuItem>
+        <MenuItem>Rel DAte</MenuItem>
+        <MenuItem>jioavdfshjkol</MenuItem>
+        <MenuItem>jkl;adlkj;sfdlkj;</MenuItem>
       </MenuList>
     </Menu>
   );
